@@ -9,7 +9,7 @@ Clonar repositorio:
 
 ```bash
 # Clonar ModeradorBot
-git clone https://github.com/ridrogo/ModeradorBot.git
+git clone https://github.com/arlessweschler/ModeradorBot.git
 ```
 ```bash
 # Mover a directorio y cambiar permisos de arranque
